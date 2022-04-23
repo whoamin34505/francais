@@ -13,7 +13,7 @@
 	<body>
 		<h1 class="title">Слова по французскому языку</h1>
 		<form>
-			<input type="text" id="text-to-find" value="" placeholder="Искать здесь..." { color: #FFDEAD; }>
+			<input type="text" id="text-to-find" value="" placeholder="Искать здесь...">
 			<button type="button" onclick="javascript: FindOnPage('text-to-find'); return false;" value="Искать"></button>
 		  </form>
 	<br>	
