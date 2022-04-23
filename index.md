@@ -18,7 +18,6 @@
 		  </form>
 	<br>	
 	<p class="text">
-	<FONT color="#FFFAFA">
 	<b>Aller au concert</b> - сходить на концерт<br>
 	<b>Surfer sur Internet</b> - сидеть в интернете<br>
 	 <b>Aller se balader</b> - пойти на прогулку<br> 
@@ -66,7 +65,6 @@
 	 <b>Aller au théâtre </b>- ходить в театр <br>
 	 <b>Faire du skate</b> - кататься на скейтборде <br>
 	 <b> écouter un tube à la radio</b> - слушать хит по радио.
-	</FONT>
 </p>
  <br>
 <script src="main.js"></script>
